@@ -2,11 +2,11 @@
 # Chinese Psychological Conversations Dataset
 
 ## 1.数据集简介（Dataset Introduction）
-数据内容主要来自于简单心理的心理问答，另收集了其他中文心理平台的问答对话，数据量相对较少，适合新手用于模型微调。
+数据内容主要来自于简单心理的心理问答，另收集了其他中文心理平台的问答对话，数据量相对较少，适合新手用于模型微调。<br>
 _The data primarily comes from psychological Q&A on the Simple Psychology platform, supplemented by Q&A dialogues from other Chinese psychological platforms. The dataset is relatively small and suitable for beginners for model fine-tuning._
 
 ## 2.数据集内容（Dataset Introduction）
-数据集涵盖了包括人际关系、情感问题、就业焦虑、精神健康、心理知识以及梦境解析等心理议题，还特别加入了关于伦理困境（如乱伦、猥亵）以及高风险心理干预（如自杀倾向）的案例及心理咨询师的专业回复来提升心理咨询模型的专业性与覆盖度。
+数据集涵盖了包括人际关系、情感问题、就业焦虑、精神健康、心理知识以及梦境解析等心理议题，还特别加入了关于伦理困境（如乱伦、猥亵）以及高风险心理干预（如自杀倾向）的案例及心理咨询师的专业回复来提升心理咨询模型的专业性与覆盖度。<br>
 _The dataset covers psychological topics such as interpersonal relationships, emotional issues, employment anxiety, mental health, psychological knowledge, and dream interpretation. It also includes cases and professional responses from psychologists on ethical dilemmas (e.g., incest, molestation) and high-risk psychological interventions (e.g., suicidal tendencies) to enhance the professionalism and comprehensiveness of the psychological consultation model._
 
 数据集还引入连续回答和一问多答的问答形式来针对性优化大模型微调的 BLEU-4 和 ROUGE-2 等关键指标。

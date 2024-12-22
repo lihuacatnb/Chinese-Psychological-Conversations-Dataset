@@ -21,8 +21,7 @@ _In the future, the dataset will continue to expand, providing more support for 
 
 ## 4.开发人员（Developers）
 狸猫C型AI<br>
-
-_Lihuacat T-cype AI_
+<em>Lihuacat T-cype AI<em>
 
 ## 5.商务合作 (Business cooperation)
 微信：maxiuwo1314     _WeChat: maxiuwo1314_ <br>

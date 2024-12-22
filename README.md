@@ -21,7 +21,7 @@ _Due to the small dataset size, __overfitting__ issues are likely to occur. It i
 
 ## 4.开发人员（Developers）
 狸猫C型AI<br>
-<em>Lihuacat T-cype AI<em>
+<em>Lihuacat T-cype AI</em>
 
 ## 5.商务合作 (Business cooperation)
 微信：maxiuwo1314     _WeChat: maxiuwo1314_ <br>

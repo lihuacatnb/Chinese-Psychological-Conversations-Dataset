@@ -20,7 +20,8 @@ _In the future, the dataset will continue to expand, providing more support for 
 <em> Due to the small dataset size, __overfitting__ issues are likely to occur. It is recommended to set the __training epochs__ to 5–10, use a __batch size__ of 4 or 8, and increase the __regularization terms__. <em>
 
 ## 4.开发人员（Developers）
-狸猫C型AI<br>
+狸猫C型AI
+<br>
 <em>Lihuacat T-cype AI<em>
 
 ## 5.商务合作 (Business cooperation)

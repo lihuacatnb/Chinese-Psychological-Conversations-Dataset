@@ -3,6 +3,7 @@
 
 ## 1.数据集简介（Dataset Introduction）
 数据内容主要来自于简单心理的心理问答，另收集了其他中文心理平台的问答对话，数据量相对较少，适合新手用于模型微调。<br>
+<br>
 _The data primarily comes from psychological Q&A on the Simple Psychology platform, supplemented by Q&A dialogues from other Chinese psychological platforms. The dataset is relatively small and suitable for beginners for model fine-tuning._
 
 ## 2.数据集内容（Dataset Contents）
@@ -12,6 +13,7 @@ _The dataset covers psychological topics such as interpersonal relationships, em
 
 ## 3.注意事项（Precautions）
 由于数据量较少，使用此数据集容易出现过拟合问题，建议设置训练轮次为5-10次，批量大小次数4或8并增加正则化项。<br>
+<br>
 _Due to the small dataset size, __overfitting__ issues are likely to occur. It is recommended to set the __training epochs__ to 5–10, use a __batch size__ of 4 or 8, and increase the __regularization terms__._
 
 ## 4.开发人员（Developers）

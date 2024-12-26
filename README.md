@@ -17,7 +17,7 @@ _The dataset covers psychological topics such as interpersonal relationships, em
 _Due to the small dataset size, __overfitting__ issues are likely to occur. It is recommended to set the __training epochs__ to 5–10, use a __batch size__ of 4 or 8, and increase the __regularization terms__._
 
 ## 4.开发人员（Developers）
-狸猫C型AI(LH-Cat AI)
+狸猫C型AI&nbsp;&nbsp;(LH-Cat AI)
 
 ## 5.商务合作 (Business cooperation)
 微信：maxiuwo1314 &nbsp;&nbsp;&nbsp;&nbsp; 邮箱：zhaogangbjm@gmail.com<br> 
